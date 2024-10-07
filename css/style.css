@@ -1,0 +1,17 @@
+button {
+    background-color:aliceblue;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 5px 6px;
+}
+
+table{
+    border-collapse: separate;
+    border-spacing: 20px;
+}
+td {
+    border: 1px solid black;
+    padding: 5px 10px;
+    background-color:antiquewhite;
+    border-radius: 4px;
+}
